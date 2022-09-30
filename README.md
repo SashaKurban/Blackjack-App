@@ -3,4 +3,4 @@ Single-palyer Blackjack game with GUI written in Java Swing that supports all es
 
 ##Betting
 
-https://github.com/SashaKurban/Blackjack-App/issues/2#issue-1393067842
+![Betting](https://github.com/SashaKurban/Blackjack-App/issues/2#issue-1393067842)
